@@ -1,0 +1,4 @@
+name: TownManager
+version: '${project.version}'
+main: com.townmanager.TownManager
+api-version: '1.21'
