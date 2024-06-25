@@ -10,7 +10,7 @@ public final class TownManager extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
+        // First Commit
     }
 
     @Override
